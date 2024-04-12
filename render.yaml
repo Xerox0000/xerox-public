@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: xerox-youtube001
+    name: xerox-trip001
     env: python
     region: Oregon
     plan: free
