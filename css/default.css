@@ -546,3 +546,10 @@ p,
 
 /* Center the "invidious" logo on the search page */
 #logo > h1 { text-align: center; }
+
+
+
+body {
+    background-color: blue;
+}
+
